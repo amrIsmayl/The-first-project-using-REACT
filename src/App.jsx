@@ -4,6 +4,7 @@ import './Home.css';
 import './Portfolio.css';
 import './About.css'
 import './Contact.css'
+import './Navbar.css'
 
 import Navbar from './Navbar';
 import Home from './Home';

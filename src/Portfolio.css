@@ -1,5 +1,6 @@
 .overImg{
     transition: all 0.5s ease-in-out;
+    z-index: 0;
 }
 
 .overImg:hover {
@@ -15,5 +16,9 @@
 
 .overImg:hover span{
     color: white;
+}
+
+img{
+    z-index: 0;
 }
 
