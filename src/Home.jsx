@@ -4,7 +4,7 @@ import logo from "./avataaars.svg"
 
 export default function Home() {
     return (
-        <div className=' vh-100 d-flex justify-content-center align-items-center'>
+        <div className=' vh-100 d-flex justify-content-center align-items-center' id='Home'>
 
             <div className=' text-center text-white'>
                 <img src={logo} alt="Logo" className=' w-50' />

@@ -8,7 +8,7 @@ import cabin6 from "./image2vector.svg"
 
 export default function () {
     return (
-        <div className=' py-5'>
+        <div className=' py-5' id='portfolio'>
             <div className=' text-center'>
                 <h1 className=' fw-bold'>PORTFOLIO</h1>
                 <div className='lineTitle position-relative py-3 w-25 m-auto'>
