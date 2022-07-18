@@ -1,0 +1,22 @@
+
+.starAbout::after{
+    content: '';
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    width: 110px;
+    height: 3px;
+    border-radius: 5px;
+  }
+  
+  .starAbout::before{
+    content: '';
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    width: 110px;
+    height: 3px;
+    border-radius: 5px;
+  }

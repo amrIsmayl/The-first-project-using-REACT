@@ -1,0 +1,19 @@
+.overImg{
+    transition: all 0.5s ease-in-out;
+}
+
+.overImg:hover {
+    background-color: rgba(26, 188, 156, 0.8);
+}
+
+.plus{
+    font-size: 100px;
+    font-weight: bold;
+    color: rgba(255, 255, 255,0);
+    transition: all 0.5s ease-in-out;
+}
+
+.overImg:hover span{
+    color: white;
+}
+

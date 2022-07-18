@@ -1,0 +1,14 @@
+
+input{
+    border: none;
+    resize: none;
+    outline: none;
+}
+
+input::placeholder {
+    font: 20px/3 sans-serif;
+}
+
+.inp{
+    border-bottom: 1px solid #e9ecef;
+}
